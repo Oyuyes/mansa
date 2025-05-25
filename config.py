@@ -1,0 +1,9 @@
+TOKEN = "7704949627:AAF5loja9V9sdORNClkIDPhkfwMPmJ8PyOs"
+MPESA_TILL = "5455121"
+MPESA_NAME = "RNS"
+BINANCE_ID = "726376723"
+PAYPAL_EMAIL = "tipsmansa@gmail.com"
+ADMIN_ID = 470435987  # Replace with your Telegram ID
+SHEET_ID = "1V51H5PWBjw8hG1whh6sbtXQujOD1Mw8rd0B1Fr9T8IM"
+SHEET_RANGE = "Subscribers!A:D"
+GOOGLE_SERVICE_ACCOUNT = "tipsmansa@tipsmansa.iam.gserviceaccount.com"
